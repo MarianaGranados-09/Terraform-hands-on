@@ -1,0 +1,6 @@
+region           = "us-west-1"
+ami              = "ami-00142eb1747a493d9"
+instance_type    = "t3.micro"
+prefix           = "mgr"
+my_ip            = "189.203.100.59/32"
+availability_zone = "us-west-1a"
